@@ -1,0 +1,23 @@
+img{
+    width: 100%;
+}
+
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(129, 127, 127);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 10px;
+}
+
+nav{
+    background-color:  rgb(65, 64, 64)
+}
